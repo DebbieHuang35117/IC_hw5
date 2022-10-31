@@ -1,3 +1,7 @@
+## IC hw5 b10607011
+This is Debbie Huang's homework for IC hw5. This file mainly accomodate to TA Shelley's sample code. 
+
+
 # ItC-python-hw-sample-code
   * TA sample codes for Introduction to Computer 
  
