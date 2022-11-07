@@ -1,6 +1,3 @@
-
-
-
 class Crawler(object):
     def __init__(self,
                  base_url='https://www.csie.ntu.edu.tw/news/',
